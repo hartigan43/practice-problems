@@ -1,1 +1,1 @@
-Some practice problems done in preparation and for interview questions.
+Practice problems done in preparation and for interview questions.
