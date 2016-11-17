@@ -1,13 +1,11 @@
 var fizzbuzz = function(num) {
 
   for (var i = 1; i <= num; i++) {
-      if(i%3 == 0) {
+    if(i % 3 == 0) {
         console.log('fizz');
-      }
-    else if(i%5 == 0) {
+    } else if(i % 5 == 0) {
         console.log('buzz');
-      }
-      else{
+    } else {
         console.log(i);
     }
   }
